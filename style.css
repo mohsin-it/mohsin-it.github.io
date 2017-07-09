@@ -19,7 +19,7 @@ html,body{
 }
 /*--- Header Part Starts Her ---*/
 .header{
-	background:url(../banner.jpg)no-repeat;
+	background:url(banner.jpg)no-repeat;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
